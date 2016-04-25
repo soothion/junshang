@@ -1,0 +1,23 @@
+{template "content","header"}
+    <div class="wrap">
+        {template "content","left"}
+        <div class="w646 r">
+            <div class="m_nav">
+                <h3>{$CATEGORYS[$catid]['catname']}</h3><span>所在位置：<a href="{siteurl($siteid)}">首页</a> - <a href="{$CATEGORYS[$catid]['url']}">{$CATEGORYS[$catid]['catname']}</a></span></div>
+            <div class="blank20"></div>
+            <div id="newscontent" class="inner_con">
+                {pc:content  action="lists" catid="11" order="id DESC" num="10" page="$page"}
+                     <ul>
+                         {loop $data $key $val}
+                            <li>
+                                <i class="fr">{date('Y-m-d',$val[inputtime])}</i>
+                                <a href="{$val[url]}" title="{$val[title]}">{$val[title]}</a>
+                            </li>
+                         {/loop}
+                     </ul>
+                {/pc}
+                <div class="pageinfo">{$pages}</div>
+            </div>
+        </div>
+    </div>
+{template "content","footer"}

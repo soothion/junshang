@@ -1,0 +1,22 @@
+<div class="left l">
+    <div class="fuwu">
+        <img alt="标题标题" src="images/index_13.jpg" />
+            {pc:content  action="lists" catid="6" order="id DESC" num="8"}
+                 <ul>
+                     {loop $data $key $val}
+                     <li> <a href="{$val['url']}" style="font-size:18px; font-weight:bold; color:#FFFFFF;">{$val['title']}</a></li>
+                     {/loop}
+                 </ul>
+            {/pc}
+    </div>
+    <div class="blank40"></div>
+    <div class="ind_tit">
+        <h3>联系方式</h3><em>/Contact</em><span><a href="#">MORE</a></span></div>
+    <div class="lianxi fs14">
+        咨询热线：4007188018/020-29175887
+        <br> 吴董Tel：15622226222
+        <br> Email：hezuo@qijunmedia.com
+        <br> 地址：广州增城市新塘镇长风国际23栋102
+
+    </div>
+</div>

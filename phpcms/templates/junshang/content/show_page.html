@@ -1,0 +1,16 @@
+{template "content","header"}
+    <div class="wrap">
+        {template "content","left"}
+        <div class="w646 r">
+            <div class="m_nav">
+                <h3>{$title}</h3><span>所在位置：<a href="{siteurl($siteid)}">首页</a> - <a href="{$url}">{$title}</a></span></div>
+            <div class="blank20"></div>
+            <div class="newslist">
+                <div style="padding-top:8px; line-height:25px;">
+                    {$content}
+                </div>
+            </div>
+        </div>
+    </div>
+    <script language="JavaScript" src="{APP_PATH}api.php?op=count&id={$id}&modelid={$modelid}"></script>
+{template "content","footer"}    

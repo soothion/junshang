@@ -1,0 +1,75 @@
+{template "content","header"}
+    <div class="wrap">
+        <div style="width:auto; height:auto; margin-top:15px;_margin-top:15px;margin-bottom:15px;_margin-bottom:15px;">
+            <!-- 酒店融资或转让 -->
+            <div class="jiudian">
+                <a href="index.php?m=content&c=index&a=show&catid=9&id=10" title="品牌推广">品牌推广</a>
+                <a href="index.php?m=content&c=index&a=show&catid=9&id=11" title="营销策划">营销策划</a>
+                <a href="index.php?m=content&c=index&a=show&catid=9&id=12" title="文艺演出">文艺演出</a>
+            </div>
+        </div>
+        <div class="blank20"></div>
+        <div class="w663 l">
+            <!-- 经典案例 -->
+            <div class="ind_tit">
+                <h3>经典案例</h3><em>/CASE</em><span><a href="index.php?m=content&c=index&a=lists&catid=10">MORE</a></span></div>
+            <div class="anli">
+
+                {pc:content  action="lists" catid="10" order="id DESC" num="8"}
+                     <ul>
+                         {loop $data $key $val}
+                            <li>
+                            <a href="{$val[url]}" title="{$val[title]}">
+                                <img src="{$val[thumb]}" width="295" height="200" alt="{$val[title]}" />
+                                <h3>{$val[title]}</h3>
+                            </a>
+                            </li>
+                         {/loop}
+                     </ul>
+                {/pc}
+            </div>
+        </div>
+        <div class="w317 r">
+            <div class="ind_tit">
+                <h3>行业新闻</h3><em>/NEWS</em><span><a href="index.php?m=content&c=index&a=lists&catid=11">MORE</a></span></div>
+            <div class="hyxw">
+
+                {pc:content  action="lists" catid="11" order="id DESC" num="6"}
+                     <dl>
+                        {php $n=1;}
+                        {loop $data $key $val}
+                            {if $n==1}
+                                <dt><span style="height:30px; line-height:30px;">[{date('Y-m-d',$val['inputtime'])}]</span>
+                                    <h3 style="height:30px; line-height:30px;"><a href="{$val[url]}" title="{$val[title]}"  style="font-weight:bold;">{str_cut($val[title],56,'...')}</a></h3>
+                                    <p style="line-height:25px;">
+                                        <a href="news-show-8.html" title="{$val[title]}"><img src="{$val[thumb]}" width="120" height="90" border="0" style="float:left; margin-right:6px;" alt="{$val[title]}" /></a>
+                                        {str_cut($val[description],160,'...')}</p>
+                                </dt>
+                            {else}
+                              <dd><span>[{date('Y-m-d',$val['inputtime'])}]</span><a href="{$val[url]}" title="{$v[title]}" target="_blank">{str_cut($val[title],56,'...')}</a></dd>
+                            {/if}
+                            {php $n++;}
+                        {/loop}
+                     </dl>
+                {/pc}
+
+            </div>
+            <div class="blank10"></div>
+            <div class="hezuo">
+                <ul>
+                    <li>
+                        <a href="javascript:void(0);"><img src="images/rfw1.jpg" alt="" width="315" /></a>
+                    </li>
+                    {pc:content  action="lists" catid="6" order="id DESC" num="8"}
+                   
+                         {loop $data $key $val}
+                         <li style="background:#075CAF; height:61px; line-height:61px; width:283px; padding-left:32px;"><a href="{$val[url]}" title="{$val[title]}" style="font-size:20px; font-weight:bold; color:#FFFFFF;">{$val[title]}</a></li>
+                         {/loop}
+            
+                    {/pc}
+                </ul>
+                <div class="blank10"></div>
+            </div>
+        </div>
+    </div>
+{template "content","footer"}    

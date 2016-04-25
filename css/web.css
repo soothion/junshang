@@ -1,0 +1,103 @@
+/*抬头*/
+.top{border-top: 6px solid #075CAF;}
+.top .logo{padding-top: 28px;}
+.top .scang{background: url(../images/top_bg.jpg) 0 0 no-repeat;width: 201px;height: 31px;line-height: 31px;color: #fff;margin-top: 1px;text-align: center;}
+.top .scang a{color: #fff;}
+/*导航*/
+.nav{background:#03026A url(../images/nav_bg.jpg) repeat-x;height: 46px;line-height: 46px;}
+.nav ul li{background: url(../images/nav_bg2.jpg) left no-repeat;height: 46px;line-height: 46px;float: left;}
+.nav ul li a{font:16px/46px SimSun;color: #fff; padding: 0 16px;float: left;text-decoration: none;}
+.nav ul li a:hover{color: #fff000;}
+.nav ul li.nobg{background: none;}
+/*幻灯片*/
+.flash{position: relative; width:100%; height:475px; overflow:hidden; margin: 0 auto;}
+    .flash li{float:left; }
+    .flash .num{ position: absolute; top:425px; right:0; z-index: 11;text-align: center;}
+        .flash i{float:left; height:30px; width:30px; margin-right:5px; display:inline; color:orange; line-height:30px; text-align: center; background:#fff; cursor: pointer;}
+        .flash .act{background:orange; font-weight:bold; color:#fff; }
+.flash2{ margin: 0 auto;}
+    .flash2 li{padding:5px; float:left; height:120px; width:150px; }
+.flashbg{background: url(../images/index_06.jpg) top repeat-x;height: 35px;line-height: 35px;}
+
+.w663{width: 663px;}
+.w317{width: 317px;}
+.ind_tit{border-bottom: 1px solid #e5e5e5;height: 35px;line-height: 35px;}
+.ind_tit h3{font:bold 14px/35px SimSun;color: #075CAF;float: left;border-bottom: 1px solid #a5a5a5;}
+.ind_tit em{color: #777;font:12px/35px Arial;float: left;margin-left: 5px;}
+.ind_tit span{float: right;font:12px/35px Microsoft YaHei;color: #999;}
+.ind_tit span a{color: #999;}
+/*案例*/
+.anli{padding: 19px 0;overflow: hidden;}
+.anli ul li{float: left;margin-right: 35px;}
+.anli ul li h3{text-align: center; height:40px; line-height:28px;}
+/*酒店融资或转让*/
+.jiudian{background: url(../images/index_07.jpg) 0 no-repeat;height: 500px;padding-left: 35px;}
+.jiudian a{text-indent: -9999px;display: block;width: 290px;height: 105px;float: left;margin-right: 30px;margin-top: 356px;}
+
+.rongzi{background: #d1d1d1;padding: 10px 0}
+.rongzi ul li{width: 207px;height: 104px;float: left;line-height: 104px;margin-left: 10px;text-align: center;color: #fff;font: bold 30px/104px SimSun;}
+.rongzi ul li.jdqg{background: #0068c7;}
+.rongzi ul li.jdqz{background: #7d0302;}
+.rongzi ul li.jdzr{background: #626061;}
+
+.hyxw dl dt{border-bottom: 1px dashed #ccc;overflow: hidden;padding: 7px 0;margin-bottom: 5px;}
+.hyxw dl dt h3 a{font-weight: bold;color: #075CAF;}
+.hyxw dl dt span{float: right;color: #999;}
+.hyxw dl dt p{line-height: 22px;color: #666;}
+.hyxw dl dd{height: 30px;line-height: 30px;}
+.hyxw dl dd a{background: url(../images/index_10.jpg) 0px 4px no-repeat;padding-left: 10px;}
+.hyxw dl dd span{float: right;}
+
+.hezuo{overflow: hidden;}
+.hezuo ul li{margin: 8px 0 0 0;float: left;}
+
+.foot{background: #075CAF;}
+.f_anv dl{float: left;background: url(../images/index_11.jpg) right no-repeat;padding-right: 30px;margin-right: 30px;}
+.f_anv dl dt a{font-weight: bold;}
+.f_tel{line-height: 40px;margin-left: 30px;}
+.f_tel .dianhua{font: bold 16px/35px Arial;color: #a20101;}
+.mail{font:16px/35px Arial;}
+.ewm h4{text-align: center;line-height: 36px;}
+.foot_b{height: 45px;line-height: 45px;}
+.foot_b a{color: #999;}
+
+
+/**左边**/
+.left{width: 271px;}
+.left .fuwu ul li a{background: #075CAF;height:64px;line-height:64px;padding-left: 32px;margin-top: 3px;display: block;color: #fff;font-size: 14px;}
+.left .lianxi{background: url(../images/index_15.jpg) top no-repeat;padding: 15px 0;height: 450px;line-height: 30px;}
+/**右边**/
+.w646{width: 646px;}
+.m_nav{border-bottom: 1px solid #e5e5e5;height: 35px;line-height: 35px;margin: 10px 0;}
+.m_nav h3{font:bold 14px/35px SimSun;color: #075CAF;float: left;border-bottom: 1px solid #a5a5a5;}
+.m_nav em{color: #777;font:12px/35px Arial;float: left;margin-left: 5px;}
+.m_nav span{float: right;font:14px/35px SimSun;color: #2b2b2b;}
+.m_nav span a{color: #2b2b2b;}
+.newslist dl{width:646px;height: 90px;overflow: hidden;border-bottom: 1px dashed #ebebeb;margin-bottom: 20px;padding-bottom: 20px;*display: inline;}
+.newslist dl dt{float: left;width: 120px;height: 90px;margin-right: 21px;}
+.newslist dl dd{float: left;width: 500px;}
+.newslist dl dd h3{font: bold 14px/35px SimSun;color: #2b2b2b;}
+.newslist dl dd p{color: #2b2b2b;font-size: 14px;}
+
+#showcon{ padding:12px 20px;}
+#showcon h3{ height:30px; line-height:30px; color:#F00; text-align:center; font-size:14px; font-weight:bold;}
+#showcon .sec_tit{ color:#999; border-bottom: 1px #CCC dashed; line-height:24px; text-align:center;}
+#showcon .sec_tit span{ padding:5px 10px;}
+#showcon .content{ margin:15px 5px 10px; line-height:26px;}
+
+.fl{float:left; width:45%;}
+.fr{float:right; width:45%; text-align:right;}
+.inner_con{ line-height:24px;}
+.inner_con em{ padding-left:2em;}
+
+#newscontent{ padding:0px 0px;}
+#newscontent ul li{ height:30px; line-height:30px; padding-right:10px; overflow:hidden; border-bottom:1px #CCCCCC dashed;}
+#newscontent ul li a{ padding-left:10px; background:url(../images/index_132.jpg) 0 5px no-repeat;}
+
+
+/*CSS pageinfo style pagination*/
+.pageinfo {padding-top: 24px; height: 30px; font-size: 12px; padding-bottom: 20px; text-align:center;}
+.pageinfo a{ height: 21px;line-height: 21px; margin-left: 10px; text-align:center; display: inline-block; background: #f3f3f3; text-decoration: none; color: #333;}
+.pageinfo a:hover{ background: #333; color: #fff; text-decoration: none;}
+.pageinfo span{ margin-left: 10px; display: inline-block; height: 21px; width: 21px; line-height: 21px; text-align:center;}
+.pageinfo span.cur {font-weight: bold; color: #fff; background: #333;}

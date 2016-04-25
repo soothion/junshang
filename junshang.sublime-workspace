@@ -1,0 +1,1325 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"json",
+				"json_decode"
+			],
+			[
+				"curr",
+				"currentRouteName"
+			],
+			[
+				"per",
+				"permission"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"file_",
+				"file_put_contents"
+			],
+			[
+				"upda",
+				"update_role"
+			],
+			[
+				"rol",
+				"roles"
+			],
+			[
+				"ro",
+				"roles"
+			],
+			[
+				"apisucc",
+				"@apiSuccessExample	apiDoc"
+			],
+			[
+				"create",
+				"created_at"
+			],
+			[
+				"city",
+				"city_id"
+			],
+			[
+				"depart",
+				"department_id"
+			],
+			[
+				"page",
+				"page_size"
+			],
+			[
+				"role",
+				"role_id"
+			],
+			[
+				"api",
+				"@apiDescription	apiDoc"
+			],
+			[
+				"video",
+				"videoContent"
+			],
+			[
+				"options",
+				"options11"
+			],
+			[
+				"cont",
+				"content"
+			],
+			[
+				"remo",
+				"removeClass	.removeClass()"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"btn",
+				"btn_switch"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"log",
+				"logouturl"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"cat",
+				"category"
+			],
+			[
+				"model",
+				"modelid"
+			],
+			[
+				"ul",
+				"ul_wrap"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"con",
+				"convert"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"key",
+				"keyword"
+			],
+			[
+				"baidu",
+				"baiduList"
+			],
+			[
+				"com",
+				"companyInfo"
+			],
+			[
+				"str_r",
+				"str_replace"
+			],
+			[
+				"desc",
+				"description"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"cro",
+				"cronList"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "phpcms/templates/junshang/content/show_news.html",
+			"settings":
+			{
+				"buffer_size": 1089,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phpcms/templates/junshang/content/header.html",
+			"settings":
+			{
+				"buffer_size": 3953,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "phpcms/templates/junshang/content/index.html",
+			"settings":
+			{
+				"buffer_size": 3865,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phpcms/templates/default/content/list.html",
+			"settings":
+			{
+				"buffer_size": 1524,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phpcms/templates/junshang/content/left.html",
+			"settings":
+			{
+				"buffer_size": 770,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/web.css",
+			"settings":
+			{
+				"buffer_size": 5690,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "phpcms/templates/junshang/content/show_page.html",
+			"settings":
+			{
+				"buffer_size": 652,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Vincent/www/junshang/phpcms/templates/default/content/header.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/list_demo.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/list_news.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/index.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/footer.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/header.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/show_news.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/show_page.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/left.html",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/宣传片制作",
+		"/Users/Vincent/www/junshang/phpcms/templates/junshang/content/feedback.html",
+		"/Users/Vincent/www/xmpush/xmpush/IOSBuilder.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Wechat/WechatController.php",
+		"/Users/Vincent/www/laravel/app/Http/Helper/Request.php",
+		"/Users/Vincent/www/laravel/app/Http/routes.php",
+		"/Users/Vincent/www/laravel/app/Http/Helper/Wechat.php",
+		"/Users/Vincent/www/laravel/composer.json",
+		"/Users/Vincent/www/laravel/config/wechat.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Push/PushController.php",
+		"/Users/Vincent/www/laravel/config/push.php",
+		"/Users/Vincent/www/laravel/app/Exceptions/Handler.php",
+		"/Users/Vincent/www/laravel/config/database.php",
+		"/Users/Vincent/www/laravel/config/cache.php",
+		"/Users/Vincent/www/laravel/app/Exceptions/WechatTokenFailedException.php",
+		"/Users/Vincent/www/laravel/config/app.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/WeiXin/WechatController.php",
+		"/Users/Vincent/Downloads/MiPushSDK_150414.zip",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/untitled.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/IndexController.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/PermissionController.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/UserController.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/RoleController.php",
+		"/Users/Vincent/www/laravel/apidoc.json",
+		"/Users/Vincent/www/laravel/app/Providers/EventServiceProvider.php",
+		"/Users/Vincent/www/laravel/app/Handlers/Events/RoleHandler.php",
+		"/Users/Vincent/www/laravel/app/Handlers/Events/PermissionHandler.php",
+		"/Users/Vincent/www/laravel/app/Handlers/Events/UserHandler.php",
+		"/Users/Vincent/www/laravel/app/Model/User.php",
+		"/Users/Vincent/www/laravel/app/Model/Permission.php",
+		"/Users/Vincent/www/laravel/app/Http/Middleware/ACLAuthMiddleware.php",
+		"/Users/Vincent/www/laravel/app/Http/Middleware/JWTAuthMiddleware.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/Users/Vincent/www/laravel/app/Model/Role.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Api/LogController.php",
+		"/Users/Vincent/www/laravel/app/Exceptions/NoAuthException.php",
+		"/Users/Vincent/www/laravel/app/Http/Kernel.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/Controller.php",
+		"/Users/Vincent/www/laravel/vendor/kodeine/laravel-acl/src/Kodeine/Acl/Traits/HasPermission.php",
+		"/Users/Vincent/www/laravel/vendor/kodeine/laravel-acl/src/Kodeine/Acl/Models/Eloquent/Role.php",
+		"/Users/Vincent/www/laravel/vendor/tymon/jwt-auth/src/Exceptions/TokenInvalidException.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/Users/Vincent/www/laravel/vendor/kodeine/laravel-acl/src/Kodeine/Acl/Helper/Helper.php",
+		"/Users/Vincent/www/laravel/vendor/kodeine/laravel-acl/src/Kodeine/Acl/Traits/HasPermissionInheritance.php",
+		"/Users/Vincent/www/laravel/vendor/tymon/jwt-auth/src/JWTAuth.php",
+		"/Users/Vincent/www/laravel/vendor/tymon/jwt-auth/src/Middleware/GetUserFromToken.php",
+		"/Users/Vincent/www/laravel/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Profiler/Profile.php",
+		"/Users/Vincent/www/laravel/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/ConfigDataCollector.php",
+		"/Users/Vincent/www/laravel/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Authentication/AuthenticationTrustResolverTest.php",
+		"/Users/Vincent/www/laravel/app/Model/Log.php",
+		"/Users/Vincent/www/laravel/vendor/compiled.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php",
+		"/Users/Vincent/www/laravel/database/migrations/2015_05_11_033351_create_log_table.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Contracts/Routing/ResponseFactory.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/Users/Vincent/www/laravel/vendor/symfony/routing/Symfony/Component/Routing/Loader/AnnotationClassLoader.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Console/Scheduling/Event.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Support/Facades/Event.php",
+		"/Users/Vincent/www/laravel/app/Events/Event.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Support/helpers.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Console/GeneratorCommand.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php",
+		"/Users/Vincent/www/laravel/app/Model/RoleUser.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/Users/Vincent/www/laravel/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Session/Storage/Handler/PdoSessionHandler.php",
+		"/Users/Vincent/www/laravel/app/role_user.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Auth/Guard.php",
+		"/Users/Vincent/www/laravel/database/migrations/2014_10_12_000001_create_users_table.php",
+		"/Users/Vincent/www/laravel/database/migrations/2015_05_07_012338_create_departments_table.php",
+		"/Users/Vincent/www/laravel/database/migrations/2015_05_07_012549_create_positions_table.php",
+		"/Users/Vincent/www/laravel/database/migrations/2015_05_07_012810_create_city_table.php",
+		"/Users/Vincent/www/laravel/database/seeds/UserTableSeeder.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Support/Arr.php",
+		"/Users/Vincent/www/laravel/app/Model/Base.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php",
+		"/Users/Vincent/www/laravel/config/jwt.php",
+		"/Users/Vincent/www/laravel/app/Services/Registrar.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php",
+		"/Users/Vincent/Library/Application Support/Sublime Text 2/Packages/apiDoc Autocompletion/apiDocAutocompletion.sublime-settings",
+		"/Users/Vincent/Library/Application Support/Sublime Text 2/Packages/User/apiDocAutocompletion.sublime-settings",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/WelcomeController.php",
+		"/Users/Vincent/www/laravel/app/Http/Controllers/IndexController.php",
+		"/Users/Vincent/www/laravel/.env",
+		"/Users/Vincent/www/laravel/vendor/kodeine/laravel-acl/src/Kodeine/Acl/Models/Eloquent/Permission.php",
+		"/Users/Vincent/www/laravel/vendor/laravel/framework/src/Illuminate/Foundation/Console/ModelMakeCommand.php",
+		"/Users/Vincent/www/laravel/app/User.php",
+		"/Users/Vincent/www/laravel/app/Controller/BaseController.php",
+		"/Users/Vincent/www/laravel/app/Controller/IndexController.php",
+		"/Users/Vincent/www/laravel/app/routes.php",
+		"/Users/Vincent/www/laravel/config/acl.php",
+		"/Users/Vincent/www/laravel/app/Routes.php",
+		"/Users/Vincent/Downloads/index.php",
+		"/Users/Vincent/www/maoda/phpcms/libs/functions/autoload/info.func.php",
+		"/Users/Vincent/www/maoda/phpcms/templates/maoyidaxue/content/list_video.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/show_live.html",
+		"/Users/Vincent/www/maoda/statics/maoda/css/user.css",
+		"/Users/Vincent/www/maoda/images/nav.css",
+		"/Users/Vincent/www/maoda/css/nav.css",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/index.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/member/header.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/member/footer.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/footer.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/header.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/maoyidaxue/content/main_nav_doc.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/maoyidaxue/content/header_doc.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/default/content/header.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/maoyidaxue/content/header.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/maoyidaxue/content/index.html",
+		"/Users/Vincent/www/maoda/css/main.css",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/list_live.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/category_live.html",
+		"/Users/Vincent/www/maoda/phpcms/templates/new/content/show_video.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"playvideo",
+			"production",
+			"sandbox",
+			"HTTP Params",
+			"Wechat.php",
+			"redis",
+			"$message->passThrough(0); ",
+			"message1",
+			"		'permission.create' => [\n			'App\\Handlers\\Events\\PermissionHandler@onCreate',\n		],",
+			"apiSuccess",
+			"HasPermission",
+			"container",
+			"get",
+			"currentRequest",
+			"action",
+			"controller",
+			"methods",
+			"$uri",
+			"current",
+			"_static",
+			"static",
+			"apiSuccess",
+			"beginTransaction",
+			"select",
+			"with",
+			"currentPageResolver",
+			"$page",
+			"page",
+			"pagename",
+			"setpage",
+			"apiParam",
+			"apiSuccess",
+			"where",
+			"static function where",
+			"make:model",
+			"make:nodel",
+			"top",
+			"top1",
+			"#top",
+			"href=\"\"",
+			"</span>",
+			"<span>",
+			"                    <span>{$r[menu]}</span>\n	                    {/loop}",
+			"pages/",
+			"cut",
+			"sub",
+			"contenter",
+			"338",
+			"contenter",
+			"sub",
+			">\n",
+			"\n</",
+			"banner",
+			"View_cont",
+			"免费",
+			"readpoint",
+			"免费",
+			"btn_sc",
+			"comment",
+			"main_top",
+			"首页",
+			"main_con_bottom",
+			"arrchildid",
+			"'])){",
+			"main_top",
+			".main_top",
+			"id",
+			">\n",
+			"_get_usergroup_bypoint",
+			"338",
+			"pictureurls",
+			">\n",
+			"model",
+			"search",
+			"banner.png ",
+			"pages/images/banner.png ",
+			"pages/",
+			"        <!--",
+			"right_ul",
+			"wrap",
+			"string",
+			"ship",
+			"7",
+			"lastredirectaddr",
+			"r3"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "phpcms/templates/junshang/content/show_news.html",
+					"settings":
+					{
+						"buffer_size": 1089,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "phpcms/templates/junshang/content/header.html",
+					"settings":
+					{
+						"buffer_size": 3953,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								658,
+								658
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "phpcms/templates/junshang/content/index.html",
+					"settings":
+					{
+						"buffer_size": 3865,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2170,
+								2201
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 317.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "phpcms/templates/default/content/list.html",
+					"settings":
+					{
+						"buffer_size": 1524,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1244,
+								1244
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "phpcms/templates/junshang/content/left.html",
+					"settings":
+					{
+						"buffer_size": 770,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								752,
+								752
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "css/web.css",
+					"settings":
+					{
+						"buffer_size": 5690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1901,
+								1901
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 212.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "phpcms/templates/junshang/content/show_page.html",
+					"settings":
+					{
+						"buffer_size": 652,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								183,
+								183
+							]
+						],
+						"settings":
+						{
+							"origin_encoding": "UTF-8",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"routes",
+				"app/Http/routes.php"
+			],
+			[
+				"push",
+				"app/Http/Controllers/Push/PushController.php"
+			],
+			[
+				"composer",
+				"composer.json"
+			],
+			[
+				"request.php",
+				"app/Http/Helper/Request.php"
+			],
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"wechat.php",
+				"app/Http/Helper/Wechat.php"
+			],
+			[
+				"wechatcontr",
+				"app/Http/Controllers/Wechat/WechatController.php"
+			],
+			[
+				"wechat",
+				"config/wechat.php"
+			],
+			[
+				"cache.php",
+				"config/cache.php"
+			],
+			[
+				"database",
+				"config/database.php"
+			],
+			[
+				"app.php",
+				"config/app.php"
+			],
+			[
+				"hand",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"ha",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"indexcon",
+				"app/Http/Controllers/Api/IndexController.php"
+			],
+			[
+				"permisso",
+				"app/Http/Controllers/Api/PermissionController.php"
+			],
+			[
+				"usercon",
+				"app/Http/Controllers/Api/UserController.php"
+			],
+			[
+				"rolec",
+				"app/Http/Controllers/Api/RoleController.php"
+			],
+			[
+				"usercont",
+				"app/Http/Controllers/Api/UserController.php"
+			],
+			[
+				"index",
+				"app/Http/Controllers/Api/IndexController.php"
+			],
+			[
+				"role",
+				"app/Http/Controllers/Api/RoleController.php"
+			],
+			[
+				"permis",
+				"app/Http/Controllers/Api/PermissionController.php"
+			],
+			[
+				"user",
+				"app/Handlers/Events/UserHandler.php"
+			],
+			[
+				"app.ph",
+				"config/app.php"
+			],
+			[
+				"permiss",
+				"app/Model/Permission.php"
+			],
+			[
+				"handl",
+				"app/Exceptions/Handler.php"
+			],
+			[
+				"permissioncon",
+				"app/Http/Controllers/Api/PermissionController.php"
+			],
+			[
+				"rolecontro",
+				"app/Http/Controllers/Api/RoleController.php"
+			],
+			[
+				"usercontr",
+				"app/Http/Controllers/Api/UserController.php"
+			],
+			[
+				"acl",
+				"app/Http/Middleware/ACLAuthMiddleware.php"
+			],
+			[
+				"jwtauth",
+				"app/Http/Middleware/JWTAuthMiddleware.php"
+			],
+			[
+				"rolecontr",
+				"app/Http/Controllers/Api/RoleController.php"
+			],
+			[
+				"role.php",
+				"app/Model/Role.php"
+			],
+			[
+				"logcon",
+				"app/Http/Controllers/Api/LogController.php"
+			],
+			[
+				"permissioncont",
+				"app/Http/Controllers/Api/PermissionController.php"
+			],
+			[
+				"aclau",
+				"app/Http/Middleware/ACLAuthMiddleware.php"
+			],
+			[
+				"eventhandler.ph",
+				"app/Handlers/Events/UserHandler.php"
+			],
+			[
+				"cont",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"contro",
+				"app/Http/Controllers/Controller.php"
+			],
+			[
+				"indexcont",
+				"app/Http/Controllers/Api/IndexController.php"
+			],
+			[
+				"user.php",
+				"app/Model/User.php"
+			],
+			[
+				"resetpassword",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Auth/ResetsPasswords.php"
+			],
+			[
+				"app.hp",
+				"config/app.php"
+			],
+			[
+				"kernel",
+				"app/Http/Kernel.php"
+			],
+			[
+				"auth/e",
+				"vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php"
+			],
+			[
+				"eloquentuserpr",
+				"vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php"
+			],
+			[
+				"welcome",
+				"app/Http/Controllers/WelcomeController.php"
+			],
+			[
+				"apidoc",
+				"apidoc.json"
+			],
+			[
+				"indexcontro",
+				"app/Http/Controllers/IndexController.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"permission",
+				"vendor/kodeine/laravel-acl/src/Kodeine/Acl/Models/Eloquent/Permission.php"
+			],
+			[
+				"routes.php",
+				"app/Http/routes.php"
+			],
+			[
+				"user.",
+				"app/User.php"
+			],
+			[
+				"acl.php",
+				"config/acl.php"
+			],
+			[
+				"new/content/index.php",
+				"caches/caches_template/new/content/index.php"
+			],
+			[
+				"new/content/index.html",
+				"phpcms/templates/new/content/index.html"
+			],
+			[
+				"list_video.htl",
+				"phpcms/templates/maoyidaxue/content/list_video.html"
+			],
+			[
+				"new/show_live",
+				"phpcms/templates/new/content/show_live.html"
+			],
+			[
+				"user.css",
+				"statics/maoda/css/user.css"
+			],
+			[
+				"nav.css",
+				"images/nav.css"
+			],
+			[
+				"maoyidaxue/",
+				"phpcms/templates/maoyidaxue/content/header_doc.html"
+			],
+			[
+				"maoyidaxue/content/",
+				"phpcms/templates/maoyidaxue/content/main_nav_doc.html"
+			],
+			[
+				"default/header",
+				"phpcms/templates/default/content/header.html"
+			],
+			[
+				"maoyidaxue/content/header",
+				"phpcms/templates/maoyidaxue/content/header.html"
+			],
+			[
+				"new/content/header",
+				"phpcms/templates/new/content/header.html"
+			],
+			[
+				"maoyidaxue/content/index.html",
+				"phpcms/templates/maoyidaxue/content/index.html"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"default/content/index.ht",
+				"phpcms/templates/default/content/index.html"
+			],
+			[
+				"maoyidaxue/content/list",
+				"phpcms/templates/maoyidaxue/content/list_video.html"
+			],
+			[
+				"contentindex.html",
+				"phpcms/templates/maoyidaxue/content/index.html"
+			],
+			[
+				"camp",
+				"css/campus.css"
+			],
+			[
+				"show_live.html",
+				"phpcms/templates/maoyidaxue/content/show_live.html"
+			],
+			[
+				"header.html",
+				"phpcms/templates/new/content/header.html"
+			],
+			[
+				"detail.css",
+				"css/detail.css"
+			],
+			[
+				"header",
+				"caches/caches_template/maoyidaxue/content/header.php"
+			],
+			[
+				"mayidaxue/content/show_video",
+				"phpcms/templates/maoyidaxue/content/show_video.html"
+			],
+			[
+				"new/index.html",
+				"phpcms/templates/new/content/index.html"
+			],
+			[
+				"search.css",
+				"css/search.css"
+			],
+			[
+				"mayidaxue/content/list_video.html",
+				"phpcms/templates/maoyidaxue/content/list_video.html"
+			],
+			[
+				"mayidaxue/content/header.",
+				"phpcms/templates/maoyidaxue/content/header.html"
+			],
+			[
+				"mayidaxue/content/index.h",
+				"phpcms/templates/maoyidaxue/content/index.html"
+			],
+			[
+				"mayidaxue/content/header",
+				"caches/caches_template/maoyidaxue/content/header.php"
+			],
+			[
+				"css/nav.",
+				"css/nav.css"
+			],
+			[
+				"new/content/footer",
+				"phpcms/templates/new/content/footer.html"
+			],
+			[
+				"new/foot",
+				"phpcms/templates/new/member/footer.html"
+			],
+			[
+				"new/hea",
+				"phpcms/templates/new/content/header.html"
+			],
+			[
+				"new/index.",
+				"phpcms/templates/new/content/index.html"
+			],
+			[
+				"template/con",
+				"phpcms/templates/new/config.php"
+			],
+			[
+				"default/content/cat",
+				"phpcms/templates/default/content/category.html"
+			],
+			[
+				"default/conten/index",
+				"phpcms/templates/default/content/index.html"
+			],
+			[
+				"global.func.php",
+				"phpcms/libs/functions/global.func.php"
+			],
+			[
+				"show_video.html",
+				"phpcms/templates/maoyidaxue/content/show_video.html"
+			],
+			[
+				"show_video",
+				"statics/gongda/css/show_video.css"
+			],
+			[
+				"video.php",
+				"phpcms/modules/content/video.php"
+			],
+			[
+				"content/index.html",
+				"phpcms/templates/maoda/content/index.html"
+			],
+			[
+				"show_live",
+				"phpcms/templates/gongda/content/show_live.html"
+			],
+			[
+				"detai",
+				"images/detail.css"
+			],
+			[
+				"show_pho",
+				"phpcms/templates/maoda/content/show_photo.html"
+			],
+			[
+				"show",
+				"caches/caches_template/maoda/content/show_photo.php"
+			],
+			[
+				"show_photo",
+				"caches/caches_template/maoda/content/show_photo.php"
+			],
+			[
+				"nv",
+				"images/nav.css"
+			],
+			[
+				"list_photo",
+				"phpcms/templates/maoda/content/list_photo.html"
+			],
+			[
+				"default/content/ind",
+				"phpcms/templates/default/content/index.html"
+			],
+			[
+				"main",
+				"images/main.css"
+			],
+			[
+				"list_video.html",
+				"phpcms/templates/maoda/content/list_video.html"
+			],
+			[
+				"nav",
+				"images/nav.css"
+			],
+			[
+				"info.",
+				"phpcms/libs/functions/autoload/info.func.php"
+			],
+			[
+				"coneent.php",
+				"phpcms/modules/content/content.php"
+			],
+			[
+				"love.php",
+				"phpcms/modules/comment/love.php"
+			],
+			[
+				"info",
+				"phpcms/libs/functions/autoload/info.func.php"
+			],
+			[
+				"gongda/content/list_video",
+				"phpcms/templates/gongda/content/list_video.html"
+			],
+			[
+				"search",
+				"images/search.css"
+			],
+			[
+				"info.f",
+				"phpcms/libs/functions/autoload/info.func.php"
+			],
+			[
+				"search.",
+				"images/search.css"
+			],
+			[
+				"template/default/list",
+				"phpcms/templates/default/content/list.html"
+			],
+			[
+				"template/content/index.html",
+				"phpcms/templates/gongda/content/index.html"
+			],
+			[
+				"list_live",
+				"statics/gongda/css/list_live.css"
+			],
+			[
+				"list_live.css",
+				"statics/gongda/css/list_live.css"
+			],
+			[
+				"foot",
+				"phpcms/templates/gongda/content/footer.html"
+			],
+			[
+				"list_video",
+				"statics/gongda/css/list_video.css"
+			],
+			[
+				"amaz",
+				"workbench/bluebanner/core/src/Bluebanner/Core/Order/AmazonService.php"
+			],
+			[
+				"adapterser",
+				"workbench/bluebanner/core/src/Bluebanner/Core/Order/AdapterService.php"
+			],
+			[
+				"test",
+				"app/controllers/TestController.php"
+			],
+			[
+				"analyzing.html",
+				"erp-2.0-ui/app/views/ship/order/analyzing.html"
+			],
+			[
+				"newegg",
+				"workbench/bluebanner/core/src/Bluebanner/Core/Order/NeweggService.php"
+			],
+			[
+				"importser",
+				"workbench/bluebanner/core/src/Bluebanner/Core/Order/ImportService.php"
+			],
+			[
+				"import",
+				"app/commands/ImportOrerCommand.php"
+			],
+			[
+				"adapter",
+				"workbench/bluebanner/core/src/Bluebanner/Core/Order/AdapterService.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/Vincent/www/erp-2.0-ui/erp-2.0-ui.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 290.0,
+	"status_bar_visible": true
+}
